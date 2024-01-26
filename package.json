@@ -1,6 +1,6 @@
 {
   "name": "p-map-compat",
-  "version": "1.0.225",
+  "version": "0.0.1",
   "description": "Compatible version of p-map",
   "type": "module",
   "exports": {
